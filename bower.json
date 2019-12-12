@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "purescript-avar": "^3.0.0",
-    "purescript-generics-rep": "^6.0.0",
-    "purescript-spec": "^3.0.0"
+    "purescript-generics-rep": "^6.1.1",
+    "purescript-spec": "^4.0.1"
   }
 }

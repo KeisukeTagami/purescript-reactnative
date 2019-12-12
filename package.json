@@ -1,4 +1,5 @@
 {
+  "name": "purescript-reactnative",
   "private": true,
   "scripts": {
     "clean": "rimraf output && rimraf .pulp-cache",
@@ -6,10 +7,7 @@
     "build": "pulp build"
   },
   "devDependencies": {
-    "purescript": "^0.12.0",
+    "purescript": "^0.13.3",
     "rimraf": "^2.4.1"
-  },
-  "dependencies": {
-    "spago": "^0.12.1"
   }
 }
