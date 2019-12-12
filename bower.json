@@ -19,14 +19,15 @@
     "url": "git://github.com/doolse/purescript-reactnative.git"
   },
   "dependencies": {
-    "purescript-prelude": "^4.0.0",
-    "purescript-react": "^6.0.0",
-    "purescript-maybe": "^4.0.0",
+    "purescript-prelude": "^4.1.0",
+    "purescript-react": "^8.0.0",
+    "purescript-maybe": "^4.0.1",
     "purescript-newtype": "^3.0.0",
     "purescript-integers": "^4.0.0",
-    "purescript-foreign-object": "^1.0.0",
-    "purescript-nullable": "^4.0.0",
-    "purescript-effect": "^2.0.0"
+    "purescript-foreign-object": "^2.0.3",
+    "purescript-nullable": "^4.1.1",
+    "purescript-effect": "^2.0.1",
+    "purescript-typelevel-prelude": "^5.0.1"
   },
   "devDependencies": {
     "purescript-avar": "^3.0.0",

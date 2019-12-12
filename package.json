@@ -8,5 +8,8 @@
   "devDependencies": {
     "purescript": "^0.12.0",
     "rimraf": "^2.4.1"
+  },
+  "dependencies": {
+    "spago": "^0.12.1"
   }
 }
